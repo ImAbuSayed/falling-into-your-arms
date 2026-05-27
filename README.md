@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/falling-into-your-arms/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Falling Into Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/falling-into-your-arms/) |
+| **Get License** | [Secure Licensing Rights for Falling Into Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/falling-into-your-arms/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pouring shadows in this little room
+> The way you look at me just lights the gloom
+> I want to lose the world right here with you
+> And keep on falling like we always do
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
