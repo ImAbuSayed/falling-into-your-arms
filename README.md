@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/falling-into-your-arms/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Falling Into Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/falling-into-your-arms/) |
+| **Get License** | [Request Licensing for Falling Into Your Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/falling-into-your-arms/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d0ac9040c4c3942b0e0b40a2ebd89e720b116eb5fcaabeac21f5a94d8961964f` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
